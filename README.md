@@ -8,7 +8,7 @@
   # AV-FLARE: Feature-Level Reliability Estimation for Multimodal Emotion Recognition
 
   <p align="center">
-    Official implementation of the paper submitted to UAI 2026
+    Official implementation of the paper that has been submitted for publication
     <br />
     <strong>"AV-FLARE: Feature-Level Reliability Estimation for Multimodal Emotion Recognition"</strong>
     <br />
