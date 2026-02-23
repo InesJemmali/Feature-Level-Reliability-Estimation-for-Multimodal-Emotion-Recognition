@@ -253,8 +253,8 @@ AV-FLARE achieves competitive performance across metrics, demonstrating the effe
 
 1. **Clone** this repo:
    ```bash
-   git clone https://github.com/InesJemmali/Hybrid-Confidence-Guided-Feature-Selection-for-Enhanced-Multimodal-Emotion-Recognition.git
-   cd Hybrid-Confidence-Guided-Feature-Selection-for-Enhanced-Multimodal-Emotion-Recognition
+   git clone  <REPOSITORY_URL>
+   cd <REPOSITORY_FOLDER>
    ```
 2. **Install dependencies**:
    ```bash
@@ -335,7 +335,7 @@ If you utilize this code, please cite:
 1. **Install Git** (if not already installed).
 2. **Clone the Repository**:
    ```bash
-     git clone <ANONYMIZED_REPOSITORY_URL>
+     git clone <REPOSITORY_URL>
      cd <REPOSITORY_FOLDER>
    ```
 3. **Ensure Python is Installed**:
