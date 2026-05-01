@@ -7,8 +7,8 @@ import pickle
 import torch
 
 # Define the correct GMM save/load path
-GMM_SAVE_PATH_VIDEO = r"C:\Users\jemma\OneDrive\Documents\pfe\mmer - with modifications - best final results 4\savings\gmm\gmm_model_video"
-GMM_SAVE_PATH_AUDIO = r"C:\Users\jemma\OneDrive\Documents\pfe\mmer - with modifications - best final results 4\savings\gmm\gmm_model_audio" 
+GMM_SAVE_PATH_VIDEO = r""
+GMM_SAVE_PATH_AUDIO = r"" 
 
 
 
