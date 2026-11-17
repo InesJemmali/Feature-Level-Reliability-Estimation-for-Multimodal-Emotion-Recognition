@@ -8,7 +8,7 @@
   # AV-FLARE: Feature-Level Reliability Estimation for Multimodal Emotion Recognition
 
   <p align="center">
-    Official implementation of the paper that has been submitted for publication
+    Official implementation of the paper accepted for publication at the IEEE Symposium Series on Computational Intelligence (SSCI 2027).
     <br />
     <strong>"AV-FLARE: Feature-Level Reliability Estimation for Multimodal Emotion Recognition"</strong>
     <br />
